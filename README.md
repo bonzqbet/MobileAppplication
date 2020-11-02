@@ -1,16 +1,26 @@
-# firebase_log
+# Calculate water bill
 
 A new Flutter project.
 
-## Getting Started
+## หน้าแรก ผู้ใช้ต้องสมัครใช้งานก่อน
+> กดปุ่ม Sign Up for sage?
 
-This project is a starting point for a Flutter application.
+[![login.png](https://i.postimg.cc/vBn4JDwL/login.png)](https://postimg.cc/2bzjvk6V)
 
-A few resources to get you started if this is your first Flutter project:
+> จากนั้นกรอก username , password และ confirm password และกดยืนยัน
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[![register.png](https://i.postimg.cc/HLCRwhsY/register.png)](https://postimg.cc/sMwTyKhq)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## หน้าแสดงรายการย้อนหลังของทั้ง 12 เดือน
+
+> กดปุ่มเริ่มคำนวณ โปรแกรมจะไปยังหน้าการคำนวณ
+
+[![main.png](https://i.postimg.cc/BbcBGmfg/main.png)](https://postimg.cc/1VXqGctn)
+
+
+## หน้ากรอกข้อมูลหน่วยน้ำที่ใช้และเดือนที่ต้องการคำนวณ
+
+> กรอกข้อมูลตามแบบฟอร์มที่โปรแกรมกำหนเ
+
+[![add.png](https://i.postimg.cc/zXyG6VwL/add.png)](https://postimg.cc/svRzZfNy)
