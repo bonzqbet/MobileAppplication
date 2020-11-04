@@ -24,3 +24,7 @@ A new Flutter project.
 > กรอกข้อมูลตามแบบฟอร์มที่โปรแกรมกำหนเ
 
 [![add.png](https://i.postimg.cc/zXyG6VwL/add.png)](https://postimg.cc/svRzZfNy)
+
+
+## วิดีโอสอนการใช้งานโปรแกรม
+https://www.youtube.com/watch?v=KJR5kOupVuA&feature=youtu.be
